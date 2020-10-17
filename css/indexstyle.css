@@ -8,7 +8,7 @@ table {
   border-collapse:collapse;
 } 
 th { 
-  background-color: #3D7878	;
+  background-color: hsl(180, 33%, 35%)	;
   padding:10px;
   border:1px solid #000;
   color:#fff;
